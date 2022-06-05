@@ -1,5 +1,5 @@
 create file
 save file
-add to repository
+add to repository : add . 
 commit to repository
 push to repository
