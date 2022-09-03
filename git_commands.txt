@@ -2,7 +2,7 @@ Steps:
 1. Create an account on Git hub
 2. Create repository
 3. Create folder on local computer
-4. Create file on local computer and store in folder
+4. Create file on local computer and store in folder - cd
 5. Initialise local desktop on gitbash
 6. Configure local computer with github
 7. Once changes are made, add to branch (staging process)
@@ -10,9 +10,15 @@ Steps:
 9. Push change (updated file appears on main branch on git repository)
 
 Git commands:
+ls - list all files
 pwd - print working directory: prints the path of the current working directory, starting from the root
 cd - change directory
 git status
+git init - reinitialise git repository
+git remote add origin "repository name"
 git add .
-git commit -m ""
+git commit -m "enter repository name"
 git push -u origin main
+
+git remote -v (status check)
+cd -    to go back to previos file 
