@@ -22,3 +22,5 @@ git push -u origin main
 
 git remote -v (status check)
 cd -    to go back to previos file 
+
+git rm {file name} - deletes file from computer - then commit and push to update repository.
