@@ -3,7 +3,7 @@ Steps:
 2. Create repository
 3. Create folder on local computer
 4. Create file on local computer and store in folder - cd
-5. Initialise local desktop on gitbash
+5. Initialise local desktop on gitbash - git init
 6. Configure local computer with github
 7. Once changes are made, add to branch (staging process)
 8. Commit changes 
